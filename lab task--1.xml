@@ -1,0 +1,44 @@
+<home>
+	<address id="1">
+		<name>John Doe </name>
+		<address>
+                <house num>38</house num>
+                <road num>3</road num>
+                <location>Banani, Dhaka</location>
+
+          </address>
+		<dept>Sales </dept>
+                <sal>$20000</sal>
+	</address>
+
+
+<address id="2">
+		<name>Mark Zuckerberg </name>
+		<address>
+
+                <flat num>A/1  </flat num> 
+                <house num>20</house num>
+                <road num>18</road num>
+                <location>Mirpur, Dhaka</location>
+
+                </address>
+
+		<dept>Accounts  </dept>
+                <sal>$12000</sal>
+	</address>
+
+
+<address id="3">
+		<name>Ala Voski  </name>
+		
+                <house num>38</house num>
+                <road num>3</road num>
+                <location>Motijheel</location>
+
+                </address>
+		<dept> Human Resource</dept>
+                <sal>$30000</sal>
+	</address>
+
+	
+</home>

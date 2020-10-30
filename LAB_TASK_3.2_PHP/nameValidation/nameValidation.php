@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       if ($n < $m) {
       $nameError="Required at least two words";
     }else{
-      echo "<h3> My Input Check:</h3>";
+      echo "<h2> My Input Check:</h2>";
       echo $name;
     }
 

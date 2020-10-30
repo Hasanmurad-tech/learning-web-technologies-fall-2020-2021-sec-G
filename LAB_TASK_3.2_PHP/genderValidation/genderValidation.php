@@ -34,7 +34,7 @@
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" >
 	<fieldset style="width:200px;">
 		<legend>Gender</legend>
-        Gender:
+        
              <input type="radio" name="gender" value="female">Female
              <input type="radio" name="gender" value="male">Male
              <input type="radio" name="gender" value="other">Other  
